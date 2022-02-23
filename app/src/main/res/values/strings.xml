@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Кошкин Дом</string>
+    <string name="title_service">Вакансии</string>
+    <string name="title_articles">Статьи</string>
+    <string name="title_market">Маркетплейс</string>
+</resources>
